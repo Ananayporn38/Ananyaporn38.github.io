@@ -1,0 +1,9 @@
+css
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333; /* สีพื้นหลังเข้ม */
+    color: white;
+    margin-top: 20px;
+}
