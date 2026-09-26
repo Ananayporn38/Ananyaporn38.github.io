@@ -1,6 +1,11 @@
-css
-
-body {
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>พอร์ตโฟลิโอของฉัน</title>
+    <style>
+        body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             text-align: center;
             padding: 50px;
@@ -41,3 +46,15 @@ body {
     </style>
 </head>
 <body>
+
+    <div class="container">
+        <h1>สวัสดีครับ/ค่ะ ยินดีต้อนรับสู่พอร์ตโฟลิโอของฉัน</h1>
+        <p>นี่คือเว็บไซต์ที่สร้างด้วย GitHub Pages หน้าแรกของฉันกำลังอยู่ระหว่างการพัฒนา!</p>
+        <a href="https://canva.link/6rr6rlzniwx8nyz" target="_blank" class="btn-link">
+            ดูพอร์ตโฟลิโอฉบับ Canva ของฉัน
+        </a>
+    </div>
+
+</body>
+</html>
+/body></html>
